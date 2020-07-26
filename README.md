@@ -6,7 +6,9 @@ Simple, database-free Bitcoin Global blockchain explorer, driven by RPC calls to
 
 Whatever reasons one may have for running a full node (trustlessness, technical curiosity, supporting the network, etc) it's helpful to appreciate the "fullness" of your node. With this explorer, you can explore not just the blockchain database, but also explore the functional capabilities of your own node.
 
-Live demo available at: [https://explorer.bitcoin-global.io](https://explorer.bitcoin-global.io)
+Live demo available at: 
+* [https://testnet.bitcoin-global.io](https://testnet.bitcoin-global.io)
+* [https://mainnet.bitcoin-global.io](https://mainnet.bitcoin-global.io)
 
 # Features
 * Network Summary dashboard
