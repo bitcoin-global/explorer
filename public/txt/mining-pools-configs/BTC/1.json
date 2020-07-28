@@ -478,6 +478,14 @@
         }
     },
     "payout_addresses" : {
+        "mtH8N2GuwPPLP9tEv82r9FnZdNxRYQp9V8" : {
+            "name" : "global-pool",
+            "link" : "https://bitcoin-global.io"
+        },
+        "GWMsh9xBMXzRXjHxQTj8Et6hBoPYfTj9to" : {
+            "name" : "global-pool",
+            "link" : "https://bitcoin-global.io"
+        },
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
             "name" : "GHash.IO",
             "link" : "https://ghash.io"

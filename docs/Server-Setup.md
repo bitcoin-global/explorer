@@ -1,4 +1,4 @@
-### Setup of https://explorer.bitcoin-global.io on Ubuntu 16.04
+### Setup of https://mainnet.bitcoin-global.io on Ubuntu 16.04
 
     apt update
     apt upgrade
@@ -11,9 +11,9 @@
     apt upgrade
     apt install python-certbot-nginx
     
-Copy content from [./explorer.bitcoin-global.io.conf](./explorer.bitcoin-global.io.conf) into `/etc/nginx/sites-available/explorer.bitcoin-global.io.conf`
+Copy content from [./mainnet.bitcoin-global.io.conf](./mainnet.bitcoin-global.io.conf) into `/etc/nginx/sites-available/mainnet.bitcoin-global.io.conf`
 
-    certbot --nginx -d explorer.bitcoin-global.io
+    certbot --nginx -d mainnet.bitcoin-global.io
     cd /etc/ssl/certs
     openssl dhparam -out dhparam.pem 4096
     cd /home/bitcoin

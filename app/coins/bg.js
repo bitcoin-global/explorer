@@ -65,7 +65,7 @@ module.exports = {
 	siteDescriptionHtml:"<b>Bitcoin Global Explorer</b> is <a href='https://github.com/bitcoin-global/explorer). If you run your own [Bitcoin Full Node](https://bitcoin-global.io/en/full-node), **Bitcoin Global Explorer** can easily run alongside it, communicating via RPC calls. See the project [ReadMe](https://github.com/bitcoin-global/explorer) for a list of features and instructions for running.",
 	nodeTitle:"Bitcoin Global Full Node",
 	nodeUrl:"https://bitcoin-global.io/en/full-node",
-	demoSiteUrl: "https://explorer.bitcoin-global.io",
+	demoSiteUrl: "https://mainnet.bitcoin-global.io",
 	miningPoolsConfigUrls:[
 		"https://raw.githubusercontent.com/blockchain/Blockchain-Known-Pools/master/pools.json"
 	],
