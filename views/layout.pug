@@ -34,12 +34,12 @@ html(lang="en")
 						if (coinConfig.logoUrlsByNetwork && coinConfig.logoUrlsByNetwork[activeBlockchain])
 							img.header-image(src=coinConfig.logoUrlsByNetwork[activeBlockchain], alt="logo")
 						else
-							img.header-image(src="/img/logo/btc.svg", alt="logo")
+							img.header-image(src="/img/logo/bg.png", alt="logo")
 
 						if (coinConfig.siteTitlesByNetwork && coinConfig.siteTitlesByNetwork[activeBlockchain])
 							span #{coinConfig.siteTitlesByNetwork[activeBlockchain]}
 						else
-							span Bitcoin Explorer
+							span Bitcoin Global Explorer
 						
 				button.navbar-toggler.navbar-toggler-right(type="button", data-toggle="collapse", data-target="#navbarNav", aria-label="collapse navigation")
 					span.navbar-toggler-icon
