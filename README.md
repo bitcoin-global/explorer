@@ -1,6 +1,6 @@
 # Bitcoin Global RPC Explorer
 
-![homepage](https://github.com/bitcoin-global/explorer/blob/master/public/img/screenshots/homepage.png?raw=true)
+<! --![homepage](https://github.com/bitcoin-global/explorer/blob/master/public/img/screenshots/homepage.png?raw=true)--> 
 
 Simple, database-free Bitcoin Global blockchain explorer, driven by RPC calls to your own [Bitglobal](https://github.com/bitcoin-global/bitcoin-global) node. It is easy to run and can be connected to other tools (like [ElectrumX](https://github.com/spesmilo/electrumx)) to achieve a full-featured explorer.      
 
