@@ -483,6 +483,14 @@
         "/lubian.com/" : {
             "name" : "Lubian.com",
             "link" : "http://www.lubian.com/"
+        },
+        "/Mining-Dutch" : {
+            "name" : "Mining-Dutch",
+            "link" : "https://www.mining-dutch.nl/"
+        },
+        "/bitcoin-global" : {
+            "name" : "Bitcoin Global",
+            "link" : "http://pool.mainnet.bitcoin-global.io:9223"
         }
     },
     "payout_addresses" : {
